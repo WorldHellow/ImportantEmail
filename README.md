@@ -5,9 +5,7 @@ Finding useful emails (from a hacker's perspective) in a mailbox
 Instructions:
 You can run this python script on your own mailbox. It will extract your emails in a text file that can betray information about you. (Examples include> You have an instagram account, You study at NUST)
 
-1) Download all your mail in mbox format. If you have gmail, go here: 
-https://support.google.com/accounts/answer/3024190?hl=en 
-If you use a mail client such as ThunderBird, it has the option to download your data as mbox.
+1) Download all your mail in mbox format. If you have gmail, go here: https://support.google.com/accounts/answer/3024190?hl=en .If you use a mail client such as ThunderBird, it has the option to download your data as mbox.
 
 2)Place your mbox in the same folder as the python script and trainer.txt file
 
